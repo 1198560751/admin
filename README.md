@@ -1,14 +1,3 @@
--  [for循环](https://github.com/1198560751/admin/blob/master/README.md#for循环)
-- [for循环：](https://github.com/1198560751/admin/blob/master/README.md#for循环-1)
-- [for循环语法:](https://github.com/1198560751/admin/blob/master/README.md#for循环语法)
-- [快捷键100.for然后ent键快捷输入:](https://github.com/1198560751/admin/blob/master/README.md#快捷键100for然后ent键快捷输入)
-- [关于for循环有以下几点说明：](https://github.com/1198560751/admin/blob/master/README.md#关于for循环有以下几点说明)
-- [for的死循环格式：](https://github.com/1198560751/admin/blob/master/README.md#for的死循环格式)
-- [for循环的代码示例一（while循环和for循环对比，for死循环示例）：](https://github.com/1198560751/admin/blob/master/README.md#for循环的代码示例一while循环和for循环对比for死循环示例)
-- [for循环的代码示例二（练习1：计算0到100之间的奇数和偶数的和,不是偶数和奇数的个数）：](https://github.com/1198560751/admin/blob/master/README.md#for循环的代码示例二练习1计算0到100之间的奇数和偶数的和不是偶数和奇数的个数)
-- [for循环的代码示例三(用](https://github.com/1198560751/admin/blob/master/README.md#for循环的代码示例三用while或for循环输出1-1000之间能被5整除的数并且每行输出3个)
-### for循环
-![](https://img2020.cnblogs.com/blog/1773294/202007/1773294-20200722150948754-51585825.png)
 
 ##### for循环：
 
